@@ -1,6 +1,6 @@
 package com.pk;
 
-public class Main {
+public class MainRenamed {
 
     public static void main(String[] args) {
 	  System.out.print("Hello World!!!");
